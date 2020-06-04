@@ -2,14 +2,8 @@ a
 b
 c
 d
-<<<<<<< HEAD
 e
-=======
 e
 f
 g
-<<<<<<< HEAD
->>>>>>> Added in master
-=======
->>>>>>> master
->>>>>>> c47b84ef2c9ba9f923e0bed4efedbba8e344234a
+
